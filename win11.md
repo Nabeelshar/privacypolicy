@@ -2,8 +2,8 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at *Windows 11*, how *Windows 11* uses it, and what choices you have.
-*Nobleboy* built the *Windows 11* app as a free app. This SERVICE is provided by *Nobleboy* at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at *Win 11 Real Simulator Pro*, how *Win 11 Real Simulator Pro* uses it, and what choices you have.
+*Infinite Cosmic Labs* built the *Win 11 Real Simulator Pro* app as a free app. This SERVICE is provided by *Infinite Cosmic Labs* at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
@@ -46,4 +46,4 @@ This is also not Windows 365 cloud PC.
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: *sharyt26shar@gmail.com*  
+Email: *f95zoneg@gmail.com*  
